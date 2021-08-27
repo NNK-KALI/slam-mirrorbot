@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "megatodrive-324113",
+  "private_key_id": "6e5d5c1b009e777cecf2038dd3e410db04f771c5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDmnJXRjhAwihsO\nu556t1cXlrH0DRG3oZsR0ZS08gKmVAEWECxeETfzWZn335Ah8yGzg7yu2NmFeMSD\nPWElU04RxCCZM2PKapIBTQX7iNyivwSvHoZGLa2hRVJ75mJ9Amw+6+EPZyY2SVXG\nPHT+fb/F3O+pDPCukywtWI44qcnJUUptM3HJK5I0hJyuRfMR4kbXRmQjgpk45kQ7\naSCRqPjwW8dfA2CMVIDpNxeWJiP4AY/9niN/IWtbJGnqcg5FbPYS2z4P+3U58QQR\nqRYw83dFGqmVD9tMwrV+K27VEIEseMBRTGJ0PqJytWdBl7uRhA7iOyuHjM4HZg86\nCc9Bts8LAgMBAAECggEAaueZ+DwgOzA6nNjS/dZyNEgylI1ecj8jcN40TrGGEu8M\nVdsHhk/7HP+jhaoI2gQo0lw2ouN56wryJljU6QW2QjwmVH7jOtmud5XqORHYHkXo\n+Plwi6XvQLyvISrK62KtJXoZqhdKOo5CihRKtBM9TI9ANqD+Dh/Bsf/EZnYnSgBY\n3RgZuHDf58fdrs7ZhPDb3AgFSZElC2vYzBhpn++uTIsgH/4AsUFrlq1kKeeLCNL6\neBvgSPO8dLPZ3mCMs5G/d4WHv/1/GQLzrskuREUljrPrP7oilLy6h5PDqw0meOd5\nSVcNEtmQM4uhTpLAaxYh+QJm+r5pFL8eRh8/0O18SQKBgQD6WvImgt61e18soC/W\n7q5mTA/Jh7flifecCfc6zbe/mpXkbBJ51ie2Lr/oibvDkJRujnU0XnbyMbB2LUx8\nMfkXZCd8nBq1/p2BcQ2Yf+MTmxy9NQamJob4rgJXHlMLW1hXAGSCwzbv4hFt36+P\nyIV+vUIuqOnLkOV/eGSUXT7iJwKBgQDrz63Tm57BMoVXmJ52O8VGYp3F6jZAEchF\n9aiNkG37aHv5QKFvbS1D3UQ0tV/G20Vuhp/RVWXLnBlOLTaZe1Hvz5TpvjADPH0W\nmqsA3mk2bKTu8rn9O749/GvnIRTt7wG87G1vlq8cd0/7Wj0MprhLpUs6jroIJBMC\nw+Y23yHOfQKBgGFS25HXDEbWuA/8EbznOorwBK8egIHOGaDiSubkNAtbR+vti10r\nwHJVSCtY59JFsT4tSSjblDfg0y2NvI8HSkMqnyMU+FlJquc4EMX46Uik4w42v+f1\nUED6PFSrqDLhBr2DnI8s3n1wj7/71h76H9M+Na034vNM17qvDcKTYS+/AoGAMuci\ny9IFBAlm1VDhq/4dCKOTET0MtunfxJJR7zUlOKcGU/jKoGX95m9mIMaiRSfiJgiz\niRmZHsm0gLar2ZfQSScTKx3d+WTeT7nVfhuEtLXhKJ+G3I4/89uAY2U1wmLcii6z\nNOpfJJLw1f5VvVxj3hhxU9OpfsZiwC8Pi/rArnUCgYEAgvFYg0IQDYWSouPCkoNW\n1NGCPsxt2+636Sr/KcBHhAkcpGRDjgsiSk7MfabX5GiI/BWjrUWPKDkBEt1KNjl0\nf1vMhyb0KHC2bGMtGLKEbqNE95Ekc0MrbGMWi/fIUAF+csn1vORVY/wyiVAfFF1u\n5nLXCNEOfPXFxKe2wdeCr6s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-9lxxvvfpdufpg7wks26e5-x1r6@megatodrive-324113.iam.gserviceaccount.com",
+  "client_id": "103405598301660632798",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-9lxxvvfpdufpg7wks26e5-x1r6%40megatodrive-324113.iam.gserviceaccount.com"
+}
